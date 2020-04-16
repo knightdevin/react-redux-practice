@@ -26,8 +26,8 @@ For this project, you must use Express to handle HTTP requests and Sequelize to 
 
 For the requirements and rubric, refer to the following two files:
 
-* `REQUIREMENTS.md` - contains the functional requirements of the project
-* `RUBRIC.md` - contains the grading rubric for additional factors, as well as the formula for calculating the total score
+- `REQUIREMENTS.md` - contains the functional requirements of the project
+- `RUBRIC.md` - contains the grading rubric for additional factors, as well as the formula for calculating the total score
 
 Make sure to read them carefully!
 
@@ -38,16 +38,3 @@ There are some test specs already written for you to help you get started – th
 Take a look in the wireframes folder as a reference for how your front-end _could_ look. Of course, you are encouraged to be creative and flex your own design muscles, but the wireframes should function as a good baseline/inspirational resource. Either way, the most important part of the project is that it works - **design/appearance is extra-credit**. If there ever appears to be a conflict between the wireframes and the rubric/requirements below, **go with the letter of the rubric/requirements.**
 
 ## Other Important Info
-
-### Video Walkthrough
-Please submit a short, 5 minute screencast of a walk-through of the functionality for each user story in your app. E.g. for "As a user, I can create a project", you can fill out the form for creating a project and then see the new project appear in the projects list. *There is no need to show us the code you wrote.* We recommend using Quicktime to record the screencast (instructions on how to do that [here](https://support.apple.com/kb/PH5882?locale=en_US&viewlocale=en_US)).
-
-Once you've recorded your screencast, please *upload it to YouTube as an unlisted video*. **Include a link to the video in your repo's README** and include your repo link in the video description. This will aid us in evaluating your submission.
-
-Well before the deadline, we recommend practicing this by recording a very short screencast and uploading it as an unlisted video. If you encounter any technical issues, reach out to us so that we can help you resolve them.
-
-## Evaluation
-
-- Requirements score (70%)
-- Rubric score (30%)
-- Extra credit (15% max)

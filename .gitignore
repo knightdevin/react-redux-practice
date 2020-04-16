@@ -1,6 +1,9 @@
 # Ignore all node_modules
 node_modules/*
 
+# Ignore the package-lock
+package-lock.json
+
 # Compiled JS
 public/bundle.js
 public/bundle.js.map
